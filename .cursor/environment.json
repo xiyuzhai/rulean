@@ -1,0 +1,4 @@
+{
+  "name": "rulean (lean-claude)",
+  "install": "cargo build --workspace"
+}
